@@ -11,7 +11,7 @@ prefix = "."
 
 
 keep_alive()
-token = os.getenv("TOKEN")
+token = os.getenv("ODczNjgyODczNjE2NTkyOTU2.GVwH-n.GYb1nOPF3reWlSlz1nwu6AC8VbG6igo6ZhJD9Q")
 
 #---------------#
 
